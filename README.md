@@ -1,4 +1,4 @@
-Download FileOrganizer (A work in progress ..) 🕐<br/>
+Download FileOrganizer<br/>
 Written in C++ Utilizing windowsAPI
  -Goals 🔥:<br/>
  <ul>
